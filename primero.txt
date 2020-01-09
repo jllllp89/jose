@@ -3,3 +3,5 @@ Soy Jose
 Esta escrito desde el remoto
 
 Esta escrito para cambiarlo sin pull
+
+Esta cambiado en local
